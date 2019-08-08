@@ -1,7 +1,5 @@
 import org.jenkinsci.plugins.workflow.steps.FlowInterruptedException
 
-
-
 pipeline {
 
 	agent none

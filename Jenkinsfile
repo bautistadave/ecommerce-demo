@@ -39,8 +39,7 @@ stage("stage master") {
 								}	
 						}
 					}
-							
-
+						
 						}
 					}
 				}

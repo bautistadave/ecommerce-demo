@@ -26,3 +26,5 @@ app.get('*', (req, res) => {
 
 /* export app */
 module.exports = app;
+
+/* Running pipeline */
